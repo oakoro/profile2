@@ -21,12 +21,13 @@
     height: 100px;
     justify-content: center;
     align-items: center;
+    margin-top: 40px;
     
   }
 
  .profileimage{
   height: 200px;
-  margin-top: 100px;
+  margin-top: 200px;
   border-radius: 70%;
  }
 
