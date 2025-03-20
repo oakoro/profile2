@@ -1,4 +1,8 @@
 
+body{
+  background-color: antiquewhite;
+}
+
 #googletext {
     font-family: "Playwrite IT Moderna", cursive;
     font-optical-sizing: auto;
@@ -21,7 +25,7 @@
     height: 100px;
     justify-content: center;
     align-items: center;
-   margin-top: 150px;
+   margin-top: 250px;
     
   }
 
